@@ -1,0 +1,12 @@
+c:\users\kuchi\source\repos\Project_post_json\Project_post_json\bin\Debug\Project_post_json.exe.config
+c:\users\kuchi\source\repos\Project_post_json\Project_post_json\bin\Debug\Project_post_json.exe
+c:\users\kuchi\source\repos\Project_post_json\Project_post_json\bin\Debug\Project_post_json.pdb
+c:\users\kuchi\source\repos\Project_post_json\Project_post_json\bin\Debug\System.Net.Http.dll
+c:\users\kuchi\source\repos\Project_post_json\Project_post_json\bin\Debug\System.Security.Cryptography.Algorithms.dll
+c:\users\kuchi\source\repos\Project_post_json\Project_post_json\bin\Debug\System.Security.Cryptography.Encoding.dll
+c:\users\kuchi\source\repos\Project_post_json\Project_post_json\bin\Debug\System.Security.Cryptography.Primitives.dll
+c:\users\kuchi\source\repos\Project_post_json\Project_post_json\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+c:\users\kuchi\source\repos\Project_post_json\Project_post_json\obj\Debug\Project_post_json.vbprojResolveAssemblyReference.cache
+c:\users\kuchi\source\repos\Project_post_json\Project_post_json\obj\Debug\Project_post_json.vbproj.CoreCompileInputs.cache
+c:\users\kuchi\source\repos\Project_post_json\Project_post_json\obj\Debug\Project_post_json.exe
+c:\users\kuchi\source\repos\Project_post_json\Project_post_json\obj\Debug\Project_post_json.pdb
